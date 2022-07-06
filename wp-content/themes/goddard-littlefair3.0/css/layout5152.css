@@ -3562,9 +3562,8 @@ input[type="submit"]:hover:after {
     z-index:10;
     top:0;
     left:0;
-    /* background:rgba(0,0,0,0.5) */
+    background:rgba(0,0,0,0.25)
 }
-
 
 #hero video {
     width:100%;
@@ -3583,8 +3582,7 @@ input[type="submit"]:hover:after {
     color:#ffffff;
 } 
 
-#hero .caption h1 { 
-    text-transform: uppercase;
+#hero .caption h1 {  
     font-size:2em; 
     margin-bottom:0.5rem;
 }
@@ -3620,6 +3618,13 @@ input[type="submit"]:hover:after {
     #hero .caption h2 {
         font-size:2.5rem;
     }
+}
+
+#btn-link{
+    color: white;
+}
+#btn-link:hover{
+    color: #C09632;
 }
 /* END OF HERO SECTION*/
 
