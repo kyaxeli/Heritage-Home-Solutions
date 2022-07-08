@@ -488,11 +488,7 @@ a {
     transition: color 200ms ease;
     text-decoration: none
 }
-
-a:hover {
-    color: #7C858C
-}
-
+ 
 p {
     margin: 0 0 1em
 }
@@ -785,6 +781,7 @@ p:last-child {
 /* .header-logo-center-mobile img{
     display: none;
 } */
+
 .header .header-nav-container .header-logo-center {
     margin: 10px 20px;
     max-width: 350px; 
@@ -2514,7 +2511,7 @@ table td {
 .section.related {
     background-color: #f3f3f3;
     padding: 50px 0;
-    margin-top: 100px
+    margin-top: 100px; 
 }
 
 @media screen and (max-width: 767px) {
@@ -2569,6 +2566,67 @@ table td {
         margin-bottom: 30px
     }
 }
+
+/*START OF RELATED-HOMEPAGE
+
+.section.related-homepage {
+    background-color: #f3f3f3;  
+}*/
+
+@media screen and (max-width: 767px) {
+    .section.related-homepage {
+        margin-top: 70px
+    }
+}
+
+@media screen and (max-width: 479px) {
+    .section.related-homepage {
+        margin-top: 40px;
+        margin-bottom: 50px;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .section.related-homepage .grid {
+        margin: -10px
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .section.related-homepage .grid .grid-xs-12 {
+        padding: 10px
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .section.related-homepage .grid .grid-xs-12 {
+        display: flex;
+        justify-content: center;
+        align-items: center
+    }
+
+    .section.related-homepage .grid .grid-xs-12 .archive-box {
+        width: 55%
+    }
+}
+
+@media screen and (max-width: 479px) {
+    .section.related-homepage .grid .grid-xs-12 .archive-box {
+        width: 100%
+    }
+}
+
+.section.related-homepage .section-title {
+    text-align: center;
+    margin-bottom: 50px
+}
+
+@media screen and (max-width: 1023px) {
+    .section.related-homepage .section-title {
+        margin-bottom: 30px
+    }
+}
+/*END OF RELATED-HOMEPAGE*/
 
 .section.archive {
     position: relative
@@ -3980,5 +4038,29 @@ body {
     .container{
         max-width: 1320px
     }
-}
-
+} 
+  
+  /* The container <div> - needed to position the dropdown content */
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-content {
+    display: none;
+    position: absolute; 
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.1); 
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content a {
+    color: black; 
+    text-decoration: none;
+    display: block;
+  } 
+  
+  /* Show the dropdown menu on hover */
+  .dropdown:hover .dropdown-content {display: block;}
+   
