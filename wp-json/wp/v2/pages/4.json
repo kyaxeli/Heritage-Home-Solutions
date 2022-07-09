@@ -1,1 +1,66 @@
-{"id":4,"date":"2016-02-24T18:08:41","date_gmt":"2016-02-24T18:08:41","guid":{"rendered":"https:\/\/www.goddardlittlefair.com\/home\/"},"modified":"2022-03-16T17:05:12","modified_gmt":"2022-03-16T17:05:12","slug":"interior-designers","status":"publish","type":"page","link":"https:\/\/www.goddardlittlefair.com\/","title":{"rendered":"Home"},"content":{"rendered":"","protected":false},"excerpt":{"rendered":"","protected":false},"author":1,"featured_media":0,"parent":0,"menu_order":0,"comment_status":"closed","ping_status":"closed","template":"","meta":[],"_links":{"self":[{"href":"https:\/\/www.goddardlittlefair.com\/wp-json\/wp\/v2\/pages\/4"}],"collection":[{"href":"https:\/\/www.goddardlittlefair.com\/wp-json\/wp\/v2\/pages"}],"about":[{"href":"https:\/\/www.goddardlittlefair.com\/wp-json\/wp\/v2\/types\/page"}],"author":[{"embeddable":true,"href":"https:\/\/www.goddardlittlefair.com\/wp-json\/wp\/v2\/users\/1"}],"replies":[{"embeddable":true,"href":"https:\/\/www.goddardlittlefair.com\/wp-json\/wp\/v2\/comments?post=4"}],"version-history":[{"count":3,"href":"https:\/\/www.goddardlittlefair.com\/wp-json\/wp\/v2\/pages\/4\/revisions"}],"predecessor-version":[{"id":4748,"href":"https:\/\/www.goddardlittlefair.com\/wp-json\/wp\/v2\/pages\/4\/revisions\/4748"}],"wp:attachment":[{"href":"https:\/\/www.goddardlittlefair.com\/wp-json\/wp\/v2\/media?parent=4"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}
+{
+  "id": 4,
+  "date": "2016-02-24T18:08:41",
+  "date_gmt": "2016-02-24T18:08:41",
+  "guid": { "rendered": "https://www.goddardlittlefair.com/home/" },
+  "modified": "2022-03-16T17:05:12",
+  "modified_gmt": "2022-03-16T17:05:12",
+  "slug": "interior-designers",
+  "status": "publish",
+  "type": "page",
+  "link": "https://www.goddardlittlefair.com/",
+  "title": { "rendered": "Home" },
+  "content": { "rendered": "", "protected": false },
+  "excerpt": { "rendered": "", "protected": false },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [
+      { "href": "https://www.goddardlittlefair.com/wp-json/wp/v2/pages/4" }
+    ],
+    "collection": [
+      { "href": "https://www.goddardlittlefair.com/wp-json/wp/v2/pages" }
+    ],
+    "about": [
+      { "href": "https://www.goddardlittlefair.com/wp-json/wp/v2/types/page" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://www.goddardlittlefair.com/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://www.goddardlittlefair.com/wp-json/wp/v2/comments?post=4"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://www.goddardlittlefair.com/wp-json/wp/v2/pages/4/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 4748,
+        "href": "https://www.goddardlittlefair.com/wp-json/wp/v2/pages/4/revisions/4748"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://www.goddardlittlefair.com/wp-json/wp/v2/media?parent=4"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

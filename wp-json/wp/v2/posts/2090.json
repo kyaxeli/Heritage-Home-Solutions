@@ -1,1 +1,92 @@
-{"id":2090,"date":"2019-11-22T11:18:17","date_gmt":"2019-11-22T11:18:17","guid":{"rendered":"https:\/\/www.goddardlittlefair.com\/?p=2090"},"modified":"2021-05-13T11:29:01","modified_gmt":"2021-05-13T11:29:01","slug":"jo-littlefair-named-interior-designer-of-the-year","status":"publish","type":"post","link":"https:\/\/www.goddardlittlefair.com\/2019\/11\/jo-littlefair-named-interior-designer-of-the-year\/","title":{"rendered":"Jo Littlefair Named Interior Designer of the Year"},"content":{"rendered":"<p dir=\"ltr\">We are absolutely thrilled to announce that Jo Littlefair has been named Interior Designer of the Year at the Brit List Awards 2019.<\/p>\n<p dir=\"ltr\">\n","protected":false},"excerpt":{"rendered":"<p>We are absolutely thrilled to announce that Jo Littlefair has been named Interior Designer of the Year at the Brit List Awards 2019.<\/p>\n","protected":false},"author":7,"featured_media":4178,"comment_status":"open","ping_status":"open","sticky":false,"template":"","format":"standard","meta":[],"categories":[9],"tags":[],"_links":{"self":[{"href":"https:\/\/www.goddardlittlefair.com\/wp-json\/wp\/v2\/posts\/2090"}],"collection":[{"href":"https:\/\/www.goddardlittlefair.com\/wp-json\/wp\/v2\/posts"}],"about":[{"href":"https:\/\/www.goddardlittlefair.com\/wp-json\/wp\/v2\/types\/post"}],"author":[{"embeddable":true,"href":"https:\/\/www.goddardlittlefair.com\/wp-json\/wp\/v2\/users\/7"}],"replies":[{"embeddable":true,"href":"https:\/\/www.goddardlittlefair.com\/wp-json\/wp\/v2\/comments?post=2090"}],"version-history":[{"count":3,"href":"https:\/\/www.goddardlittlefair.com\/wp-json\/wp\/v2\/posts\/2090\/revisions"}],"predecessor-version":[{"id":4170,"href":"https:\/\/www.goddardlittlefair.com\/wp-json\/wp\/v2\/posts\/2090\/revisions\/4170"}],"wp:featuredmedia":[{"embeddable":true,"href":"https:\/\/www.goddardlittlefair.com\/wp-json\/wp\/v2\/media\/4178"}],"wp:attachment":[{"href":"https:\/\/www.goddardlittlefair.com\/wp-json\/wp\/v2\/media?parent=2090"}],"wp:term":[{"taxonomy":"category","embeddable":true,"href":"https:\/\/www.goddardlittlefair.com\/wp-json\/wp\/v2\/categories?post=2090"},{"taxonomy":"post_tag","embeddable":true,"href":"https:\/\/www.goddardlittlefair.com\/wp-json\/wp\/v2\/tags?post=2090"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}
+{
+  "id": 2090,
+  "date": "2019-11-22T11:18:17",
+  "date_gmt": "2019-11-22T11:18:17",
+  "guid": { "rendered": "https://www.goddardlittlefair.com/?p=2090" },
+  "modified": "2021-05-13T11:29:01",
+  "modified_gmt": "2021-05-13T11:29:01",
+  "slug": "jo-littlefair-named-interior-designer-of-the-year",
+  "status": "publish",
+  "type": "post",
+  "link": "https://www.goddardlittlefair.com/2019/11/jo-littlefair-named-interior-designer-of-the-year/",
+  "title": { "rendered": "Jo Littlefair Named Interior Designer of the Year" },
+  "content": {
+    "rendered": "<p dir=\"ltr\">We are absolutely thrilled to announce that Jo Littlefair has been named Interior Designer of the Year at the Brit List Awards 2019.</p>\n<p dir=\"ltr\">\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>We are absolutely thrilled to announce that Jo Littlefair has been named Interior Designer of the Year at the Brit List Awards 2019.</p>\n",
+    "protected": false
+  },
+  "author": 7,
+  "featured_media": 4178,
+  "comment_status": "open",
+  "ping_status": "open",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": [],
+  "categories": [9],
+  "tags": [],
+  "_links": {
+    "self": [
+      { "href": "https://www.goddardlittlefair.com/wp-json/wp/v2/posts/2090" }
+    ],
+    "collection": [
+      { "href": "https://www.goddardlittlefair.com/wp-json/wp/v2/posts" }
+    ],
+    "about": [
+      { "href": "https://www.goddardlittlefair.com/wp-json/wp/v2/types/post" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://www.goddardlittlefair.com/wp-json/wp/v2/users/7"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://www.goddardlittlefair.com/wp-json/wp/v2/comments?post=2090"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://www.goddardlittlefair.com/wp-json/wp/v2/posts/2090/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 4170,
+        "href": "https://www.goddardlittlefair.com/wp-json/wp/v2/posts/2090/revisions/4170"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://www.goddardlittlefair.com/wp-json/wp/v2/media/4178"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://www.goddardlittlefair.com/wp-json/wp/v2/media?parent=2090"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://www.goddardlittlefair.com/wp-json/wp/v2/categories?post=2090"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://www.goddardlittlefair.com/wp-json/wp/v2/tags?post=2090"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

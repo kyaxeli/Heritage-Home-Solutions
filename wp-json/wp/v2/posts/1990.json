@@ -1,1 +1,92 @@
-{"id":1990,"date":"2019-05-17T15:27:06","date_gmt":"2019-05-17T15:27:06","guid":{"rendered":"https:\/\/www.goddardlittlefair.com\/?p=1990"},"modified":"2021-05-12T11:18:46","modified_gmt":"2021-05-12T11:18:46","slug":"juliet-rose-munich","status":"publish","type":"post","link":"https:\/\/www.goddardlittlefair.com\/2019\/05\/juliet-rose-munich\/","title":{"rendered":"Juliet Rose, Munich"},"content":{"rendered":"<p>New destination bar&nbsp;Juliet Rose, designed by Goddard Littlefair, is now open at Hilton Hotel Munich City. The bar\u2019s name is taken from one of the most elite roses in the world, developed by renowned rose breeder&nbsp;David Austin. As well as lending the concept connotations of craftsmanship, the \u2018Rose\u2019 reference is a nod to Rosenheimer Strasse the street onto which the bar\u2019s dedicated entrance faces and Rosenheimer Platz metro station on top of which the hotel stands.<\/p>\n<p>The scheme was inspired by the F&amp;B concept of unusual botanical extracts and the importance of process in the creation of its singular drinks, which includes a range of signature cocktails and what is said to be the best coffee in Munich. The result is an exciting and theatrical zoned space with an alchemical, laboratory feel; a perfect back-drop for outstanding drinks to be made and delivered.<\/p>\n","protected":false},"excerpt":{"rendered":"<p>New destination bar&nbsp;Juliet Rose, designed by Goddard Littlefair, is now open at Hilton Hotel Munich City. The bar\u2019s name is taken from one of the most elite roses in the world, developed by renowned rose breeder&nbsp;David Austin. As well as lending the concept connotations of craftsmanship, the \u2018Rose\u2019 reference is a nod to Rosenheimer Strasse [&hellip;]<\/p>\n","protected":false},"author":7,"featured_media":1993,"comment_status":"open","ping_status":"open","sticky":false,"template":"","format":"standard","meta":[],"categories":[9],"tags":[],"_links":{"self":[{"href":"https:\/\/www.goddardlittlefair.com\/wp-json\/wp\/v2\/posts\/1990"}],"collection":[{"href":"https:\/\/www.goddardlittlefair.com\/wp-json\/wp\/v2\/posts"}],"about":[{"href":"https:\/\/www.goddardlittlefair.com\/wp-json\/wp\/v2\/types\/post"}],"author":[{"embeddable":true,"href":"https:\/\/www.goddardlittlefair.com\/wp-json\/wp\/v2\/users\/7"}],"replies":[{"embeddable":true,"href":"https:\/\/www.goddardlittlefair.com\/wp-json\/wp\/v2\/comments?post=1990"}],"version-history":[{"count":2,"href":"https:\/\/www.goddardlittlefair.com\/wp-json\/wp\/v2\/posts\/1990\/revisions"}],"predecessor-version":[{"id":2417,"href":"https:\/\/www.goddardlittlefair.com\/wp-json\/wp\/v2\/posts\/1990\/revisions\/2417"}],"wp:featuredmedia":[{"embeddable":true,"href":"https:\/\/www.goddardlittlefair.com\/wp-json\/wp\/v2\/media\/1993"}],"wp:attachment":[{"href":"https:\/\/www.goddardlittlefair.com\/wp-json\/wp\/v2\/media?parent=1990"}],"wp:term":[{"taxonomy":"category","embeddable":true,"href":"https:\/\/www.goddardlittlefair.com\/wp-json\/wp\/v2\/categories?post=1990"},{"taxonomy":"post_tag","embeddable":true,"href":"https:\/\/www.goddardlittlefair.com\/wp-json\/wp\/v2\/tags?post=1990"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}
+{
+  "id": 1990,
+  "date": "2019-05-17T15:27:06",
+  "date_gmt": "2019-05-17T15:27:06",
+  "guid": { "rendered": "https://www.goddardlittlefair.com/?p=1990" },
+  "modified": "2021-05-12T11:18:46",
+  "modified_gmt": "2021-05-12T11:18:46",
+  "slug": "juliet-rose-munich",
+  "status": "publish",
+  "type": "post",
+  "link": "https://www.goddardlittlefair.com/2019/05/juliet-rose-munich/",
+  "title": { "rendered": "Juliet Rose, Munich" },
+  "content": {
+    "rendered": "<p>New destination bar&nbsp;Juliet Rose, designed by Goddard Littlefair, is now open at Hilton Hotel Munich City. The bar\u2019s name is taken from one of the most elite roses in the world, developed by renowned rose breeder&nbsp;David Austin. As well as lending the concept connotations of craftsmanship, the \u2018Rose\u2019 reference is a nod to Rosenheimer Strasse the street onto which the bar\u2019s dedicated entrance faces and Rosenheimer Platz metro station on top of which the hotel stands.</p>\n<p>The scheme was inspired by the F&amp;B concept of unusual botanical extracts and the importance of process in the creation of its singular drinks, which includes a range of signature cocktails and what is said to be the best coffee in Munich. The result is an exciting and theatrical zoned space with an alchemical, laboratory feel; a perfect back-drop for outstanding drinks to be made and delivered.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>New destination bar&nbsp;Juliet Rose, designed by Goddard Littlefair, is now open at Hilton Hotel Munich City. The bar\u2019s name is taken from one of the most elite roses in the world, developed by renowned rose breeder&nbsp;David Austin. As well as lending the concept connotations of craftsmanship, the \u2018Rose\u2019 reference is a nod to Rosenheimer Strasse [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 7,
+  "featured_media": 1993,
+  "comment_status": "open",
+  "ping_status": "open",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": [],
+  "categories": [9],
+  "tags": [],
+  "_links": {
+    "self": [
+      { "href": "https://www.goddardlittlefair.com/wp-json/wp/v2/posts/1990" }
+    ],
+    "collection": [
+      { "href": "https://www.goddardlittlefair.com/wp-json/wp/v2/posts" }
+    ],
+    "about": [
+      { "href": "https://www.goddardlittlefair.com/wp-json/wp/v2/types/post" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://www.goddardlittlefair.com/wp-json/wp/v2/users/7"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://www.goddardlittlefair.com/wp-json/wp/v2/comments?post=1990"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://www.goddardlittlefair.com/wp-json/wp/v2/posts/1990/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 2417,
+        "href": "https://www.goddardlittlefair.com/wp-json/wp/v2/posts/1990/revisions/2417"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://www.goddardlittlefair.com/wp-json/wp/v2/media/1993"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://www.goddardlittlefair.com/wp-json/wp/v2/media?parent=1990"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://www.goddardlittlefair.com/wp-json/wp/v2/categories?post=1990"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://www.goddardlittlefair.com/wp-json/wp/v2/tags?post=1990"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

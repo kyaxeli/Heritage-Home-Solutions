@@ -473,8 +473,7 @@ h5,
     margin: 0 0 5px 0;
     text-transform: uppercase;
     font-weight: bold;
-    font-family: "Arsenal", sans-serif;
-    letter-spacing: 2px
+    font-family: "Arsenal", sans-serif; 
 }
 
 h6,
