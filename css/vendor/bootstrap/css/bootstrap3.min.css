@@ -282,6 +282,8 @@
     .col-sm-6 {
       width: 50%;
     }
+
+    
   }
   
   
@@ -342,7 +344,7 @@
   @media (min-width: 768px) {
     .container {
       width: 750px;
-    }
+    } 
   }
   @media (min-width: 992px) {
     .container {
@@ -395,4 +397,9 @@
     }  
   }
   
-  
+  @media (max-width: 425px) { 
+    .carousel-inner{
+      width: 160%;
+      margin-left: -45px;
+    }
+  }

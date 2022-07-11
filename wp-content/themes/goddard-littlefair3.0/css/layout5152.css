@@ -4108,4 +4108,7 @@ body {
     .section.testimonial .section-title {
         margin-bottom: 30px
     }
-}
+} 
+
+.fadein { position:relative; height:332px; width:500px; }
+.fadein img { position:absolute; left:0; top:0; }
